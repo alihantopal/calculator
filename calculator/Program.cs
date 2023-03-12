@@ -4,7 +4,7 @@ Console.WriteLine("Ismin:");
 string name = Console.ReadLine();
 Console.WriteLine("Soyisim:");
 string surname = Console.ReadLine();
-double wallet = 10000;
+double wallet = 0;
 int remaningRight = 1;
 
 
