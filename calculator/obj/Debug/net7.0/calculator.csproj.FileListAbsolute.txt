@@ -1,0 +1,30 @@
+/Users/alihan/Documents/my projects/calculator/calculator/bin/Debug/net7.0/calculator
+/Users/alihan/Documents/my projects/calculator/calculator/bin/Debug/net7.0/calculator.deps.json
+/Users/alihan/Documents/my projects/calculator/calculator/bin/Debug/net7.0/calculator.runtimeconfig.json
+/Users/alihan/Documents/my projects/calculator/calculator/bin/Debug/net7.0/calculator.dll
+/Users/alihan/Documents/my projects/calculator/calculator/bin/Debug/net7.0/calculator.pdb
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.csproj.AssemblyReference.cache
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.AssemblyInfoInputs.cache
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.AssemblyInfo.cs
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.csproj.CoreCompileInputs.cache
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.dll
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/refint/calculator.dll
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.pdb
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/calculator.genruntimeconfig.cache
+/Users/alihan/Documents/my projects/calculator/calculator/obj/Debug/net7.0/ref/calculator.dll
+/Users/alihan/Desktop/Projects/calculator/calculator/bin/Debug/net7.0/calculator
+/Users/alihan/Desktop/Projects/calculator/calculator/bin/Debug/net7.0/calculator.deps.json
+/Users/alihan/Desktop/Projects/calculator/calculator/bin/Debug/net7.0/calculator.runtimeconfig.json
+/Users/alihan/Desktop/Projects/calculator/calculator/bin/Debug/net7.0/calculator.dll
+/Users/alihan/Desktop/Projects/calculator/calculator/bin/Debug/net7.0/calculator.pdb
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.csproj.AssemblyReference.cache
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.AssemblyInfoInputs.cache
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.AssemblyInfo.cs
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.csproj.CoreCompileInputs.cache
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.dll
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/refint/calculator.dll
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.pdb
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/calculator.genruntimeconfig.cache
+/Users/alihan/Desktop/Projects/calculator/calculator/obj/Debug/net7.0/ref/calculator.dll
