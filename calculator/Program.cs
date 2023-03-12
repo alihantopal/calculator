@@ -5,7 +5,7 @@ string name = Console.ReadLine();
 Console.WriteLine("Soyisim:");
 string surname = Console.ReadLine();
 double wallet = 10000;
-int remaningRight = 2;
+int remaningRight = 1;
 
 
 menu:
